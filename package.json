@@ -1,0 +1,14 @@
+{
+  "name": "files-downloader",
+  "version": "1.0.0",
+  "description": "download files from the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Mohamed Abbas",
+  "license": "ISC"
+}
